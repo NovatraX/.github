@@ -34,5 +34,5 @@ Making knowledge accessible to all with thousands of curated Q&A resources acros
 [![Website](https://img.shields.io/badge/🌐%20Website-grey?style=for-the-badge&logo=website)](https://novatra.in)  [![Discord](https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord)](https://discord.gg/MShg3kFUuP)  
 
 <div align="center">
-  ✨ **Together, we make knowledge free for all!**  
+  ✨ Together, we make knowledge free for al!
 </div>
