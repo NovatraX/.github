@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌟 **Novatra**  
-![GitHub Repositories](https://img.shields.io/badge/Repositores%20:%206-grey?style=for-the-badge&logo=github) ![GitHub Contributors](https://img.shields.io/badge/GitHub%20Contributors%20:%204-grey?style=for-the-badge&logo=github) ![GitHub License](https://img.shields.io/badge/GitHub%20License-grey?style=for-the-badge&logo=github)  
+![GitHub Repositories](https://img.shields.io/badge/Repositores%20:%206-grey?style=for-the-badge&logo=github) ![GitHub Contributors](https://img.shields.io/badge/Contributors%20:%204-grey?style=for-the-badge&logo=github) ![GitHub License](https://img.shields.io/badge/License-grey?style=for-the-badge&logo=github)  
 
 </div>
 
@@ -24,9 +24,9 @@ Making knowledge accessible to all with thousands of curated Q&A resources acros
 ---
 
 ### 📖 **Features**  
-- **🔎 Advanced Search:** Fast, accurate, and intuitive for instant results.  
-- **🎨 Aesthetic Design:** Minimal, distraction-free UI to help you focus.  
-- **📚 Vast Collection:** Thousands of categorized questions and answers.  
+- **🔎 Advanced Search :** Fast, accurate, and intuitive for instant results.  
+- **🎨 Aesthetic Design :** Minimal, distraction-free UI to help you focus.  
+- **📚 Vast Collection :** Thousands of categorized questions and answers.  
 
 ---
 
